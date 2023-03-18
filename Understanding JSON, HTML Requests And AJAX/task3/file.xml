@@ -1,0 +1,24 @@
+<restaurants>
+    <restaurant name="Yellow Chilli" address="New Delhi" lat="28.704060" lng="77.102493" type="bar" />
+    <restaurant name="Pizza Hut" address="London" lat="51.507351" lng="-0.127758" type="sitdown" />
+    <restaurant name="Red Lobster" address="Miami" lat="25.761681" lng="-80.191788" type="bar" />
+    <restaurant name="TGI Fridays" address="Chicago" lat="41.878113" lng="-87.629799" type="bar" />
+    <restaurant name="Hard Rock Cafe" address="Las Vegas" lat="36.169941" lng="-115.139830" type="sitdown" />
+    <restaurant name="The Bench" address="New York" lat="40.712776" lng="-74.005974" type="sitdown" />
+    <restaurant name="Oscar's" address="San Francisco" lat="37.774929" lng="-122.419418" type="bar" />
+    <restaurant name="Cheers" address="Boston" lat="42.360081" lng="-71.058884" type="sitdown" />
+    <restaurant name="Burger King" address="Tokyo" lat="35.689487" lng="139.691711" type="sitdown" />
+    <restaurant name="Applebee's" address="Los Angeles" lat="34.052235" lng="-118.243683" type="bar" />
+    <restaurant name="KFC" address="Paris" lat="48.856613" lng="2.352222" type="bar" />
+    <restaurant name="Domino's Pizza" address="Toronto" lat="43.653225" lng="-79.383186" type="sitdown" />
+    <restaurant name="Buffalo Wild Wings" address="Houston" lat="29.760427" lng="-95.369804" type="bar" />
+    <restaurant name="Starbucks" address="Seattle" lat="47.608940" lng="-122.340141" type="bar" />
+    <restaurant name="Dunkin' Donuts" address="Philadelphia" lat="39.952584" lng="-75.165222" type="sitdown" />
+    <restaurant name="Chili's" address="Atlanta" lat="33.748997" lng="-84.387985" type="bar" />
+    <restaurant name="Papa John's" address="Dubai" lat="25.204849" lng="55.270782" type="sitdown" />
+    <restaurant name="Wendy's" address="Madrid" lat="40.416775" lng="-3.703790" type="sitdown" />
+    <restaurant name="McDonald's" address="Berlin" lat="52.520008" lng="13.404954" type="bar" />
+    <restaurant name="Outback Steakhouse" address="Sydney" lat="-33.868820" lng="151.209296" type="sitdown" />
+    <restaurant name="Krispy Kreme" address="Singapore" lat="1.352083" lng="103.819839" type="bar" />
+    <restaurant name="Subway" address="Hong Kong" lat="22.319303" lng="114.169361" type="bar" />
+</restaurants>

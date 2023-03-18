@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Restaurant Page</title>
+    
+</head>
+
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: rgb(249, 241, 241);
+    }
+    #header {
+        
+        text-align: center;
+        width: 100%;
+        z-index: 999;
+    }
+    #content {
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-top-right-radius: 25px;
+        border-bottom-left-radius: 25px;
+        background-image: linear-gradient(to right, rgb(233, 220, 220) , rgb(152, 222, 197));
+        margin-bottom: 10px;
+        box-shadow: 5px 8px 5px black;
+    }
+</style>
+<body>
+    <h2 id="header">Breakfast Menu</h2>
+    <div id="menu"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
